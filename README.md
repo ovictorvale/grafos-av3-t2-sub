@@ -10,6 +10,8 @@
 * Átila Silvio Carvalho Rocha Melo Oliveira 2320454
 * Victor Menezes do Vale 2325183
 
+## 💻 Linguagem Utilizada
+* Java
 🗺️ Modelagem e Representação do Grafo
 O mapa da cidade foi modelado como um Grafo Direcionado e Ponderado, onde:
 Vértices (V): Representam os cruzamentos ou locais da cidade. 
