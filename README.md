@@ -52,4 +52,5 @@ Complexidade de Espaço: O(V + E)
 A representação do grafo original e do reverso em Listas de Adjacência ocupa um espaço na memória que é estritamente proporcional ao número de vértices e arestas reais. 
 Somando isso aos arrays auxiliares de distâncias, a complexidade espacial é linear O(V + E), garantindo que o algoritmo não estoure o limite de memória (Memory Limit Exceeded).
 
+## Comprovação de accepted
 <img width="1113" height="546" alt="image" src="https://github.com/user-attachments/assets/3e96e935-2ec4-4062-b0a4-2de4c326d016" />
